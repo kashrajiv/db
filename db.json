@@ -1,7 +1,17 @@
 {
-  "Arrest" : [
+  "Classes" : [
     {
-      "arrestNum" : "A100190"
+      "Arrest" : [
+        {
+          "arrestNum" : "A190001"
+        }
+      ]
+      
+      "Person" : [
+        {
+          "firstName" : "fName"
+        }
+      ]
     }
   ]
 }
