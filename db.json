@@ -1,15 +1,18 @@
 {
   "Classes" : [
     {
-      "Arrest" : [
+      "name" : "Arrest",
+      "Elements" : [
         {
-          "arrestNum" : "A190001"
+          "arrestNum" : "string"
         }
-      ],
-      
-      "Person" : [
+      ]
+    },
+    {
+      "name" : "Person"
+      "Elements" : [
         {
-          "firstName" : "fName"
+          "firstName" : "string"
         }
       ]
     }
