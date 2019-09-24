@@ -9,7 +9,7 @@
       ]
     },
     {
-      "name" : "Person"
+      "name" : "Person",
       "Elements" : [
         {
           "firstName" : "string"
