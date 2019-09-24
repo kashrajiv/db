@@ -4,7 +4,8 @@
       "name" : "Arrest",
       "Elements" : [
         {
-          "arrestNum" : "string"
+          "name" : "arrestNum",
+          "type" : "string"
         }
       ]
     },
@@ -12,7 +13,8 @@
       "name" : "Person",
       "Elements" : [
         {
-          "firstName" : "string"
+          "name" : "firstName",
+          "type" : "string"
         }
       ]
     }
