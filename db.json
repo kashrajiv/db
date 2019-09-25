@@ -6,6 +6,10 @@
         {
           "name" : "arrestNum",
           "type" : "string"
+        },
+        {
+          "name" : "arrestDate",
+          "type" : "DateTime"
         }
       ]
     },
@@ -17,6 +21,11 @@
           "type" : "string"
         }
       ]
+    }
+  ],
+  "Nodes" : [
+    {
+      "name" : "node1"
     }
   ]
 }
