@@ -1,31 +1,3 @@
 {
-  "Classes" : [
-    {
-      "name" : "Arrest",
-      "Elements" : [
-        {
-          "name" : "arrestNum",
-          "type" : "string"
-        },
-        {
-          "name" : "arrestDate",
-          "type" : "DateTime"
-        }
-      ]
-    },
-    {
-      "name" : "Person",
-      "Elements" : [
-        {
-          "name" : "firstName",
-          "type" : "string"
-        }
-      ]
-    }
-  ],
-  "Nodes" : [
-    {
-      "name" : "node1"
-    }
-  ]
+  
 }
